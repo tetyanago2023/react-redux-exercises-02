@@ -3,10 +3,10 @@ import AddPostForm from "./features/posts/AddPostForm";
 
 function App() {
   return (
-    <div className="App">
+    <main className="App">
        <AddPostForm />
        <PostList />
-    </div>
+    </main>
   );
 }
 
