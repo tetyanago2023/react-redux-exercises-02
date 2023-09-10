@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-Please ref. https://tetyana-redux-blog.netlify.app/
+Please ref. https://tetyana-createentityadapter-recearch.netlify.app/
